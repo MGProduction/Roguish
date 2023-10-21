@@ -7,6 +7,12 @@
 *.obj
 *.elf
 
+# asm output
+*.int
+*.lbl
+*.asm
+*.prg
+
 # Linker output
 *.ilk
 *.map
