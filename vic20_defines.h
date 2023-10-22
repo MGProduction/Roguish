@@ -60,6 +60,9 @@
 #define JOYT        0x20              // joy fire
 #define JOYR        0x80               // joy right bit
 
+#define KEY_C       0x22
+#define KEY_H       0x2B
+
 #define SETLFS      $FFBA
 #define SETNAM      $FFBD
 #define LOAD        $FFD5
@@ -73,6 +76,10 @@
 #define G1 175
 #define A1 183
 #define B1 191
+
+#define C2 195
+#define C3 225
+#define C4 240
 
 
 #if defined(WIN32)

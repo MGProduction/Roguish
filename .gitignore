@@ -11,7 +11,7 @@
 *.int
 *.lbl
 *.asm
-*.prg
+main.prg
 
 # Linker output
 *.ilk
