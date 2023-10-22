@@ -1,5 +1,5 @@
 # Roguish
-![alt text](bin/screenshot.png)
+![alt text](res/screenshot.png)
 
 A unexpanded VIC-20 rogue-like game (or at least something in that direction)
 
